@@ -2,7 +2,7 @@ rm(list=ls());gc()
 
 ## data
 
-setwd("C:/Users/renz/Desktop/4MAT 클러스터링")
+setwd("C:/Users/renz/Documents/GitHub/Private-Project/4MAT 클러스터링")
 test = read.csv("test.csv", header = T)
 test = na.omit(test)
 
